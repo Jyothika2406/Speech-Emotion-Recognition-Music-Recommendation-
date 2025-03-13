@@ -98,4 +98,14 @@ For a better understanding of the system, try using the provided sample audio fi
 - Developing personalized music therapy recommendations.
 - Improving the accuracy of emotion detection.
 - Enhancing the GUI for better user experience.
+  ## Download Links
+
+### Model Files
+Download the trained model from the following link:  
+[Speech Emotion Model](https://drive.google.com/drive/folders/1iUXbD9dmKPjw6krzw24dtQQY6KBEvYTw?usp=sharing)
+
+### Demo Video
+Watch the demo video showcasing the application:  
+[Demo Video](https://www.loom.com/share/bbddcac2b84b46aa93333db6e23b894d?sid=03672b70-ba24-4c69-9d7b-3151b87d9e1e)
+
 

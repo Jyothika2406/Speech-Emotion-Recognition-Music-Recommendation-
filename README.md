@@ -73,19 +73,24 @@ For a better understanding of the system, try using the provided sample audio fi
 ## Troubleshooting
 
 - If you encounter **"Label encoder file not found"**, ensure `label_encoder.pkl` is available in the project directory.
+  
 - If the GUI doesn’t respond, ensure Tkinter is installed correctly.
 
 ## Features
 
 ✅ Predicts six emotions: Happy, Sad, Angry, Fearful, Surprised, and Neutral.
+
 ✅ Recommends songs tailored to the detected emotion.
+
 ✅ Provides a simple and intuitive GUI for user convenience.
 
 
 ## Notes
 
 - The model is trained to recognize six emotions: **Happy**, **Sad**, **Angry**, **Fearful**, **Surprised**, and **Neutral**.
+  
 - The recommended songs are predefined for each emotion.
+  
 
 ## Future Improvements
 

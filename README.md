@@ -4,10 +4,15 @@
 This project predicts emotions from audio files and recommends a suitable song based on the detected emotion. The system is built using TensorFlow, Librosa, and Tkinter for the GUI.
 
 ├── py.py                           # Main file for GUI and emotion prediction
+
 ├── train_model.py                  # Script for training the model
+
 ├── label_encoder.pkl               # Encoded labels for predicting emotions
+
 ├── speech_emotion_model.keras      # Pre-trained model for prediction
+
 ├── requirements.txt                # Contains all required dependencies
+
 └── example_audio/                   # Folder with sample audio files for testing
 
 ## Prerequisites
